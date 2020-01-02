@@ -5,7 +5,7 @@
     <keep-alive :exclude="['Detail']">
     <router-view></router-view>
     </keep-alive>
-   <Footer v-show='bFooter' ></Footer>
+  <Footer v-show='bFooter' ></Footer>
   </div>
 </template>
 

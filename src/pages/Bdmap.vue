@@ -1,6 +1,6 @@
 <template>
     <div class="bdmap">
-        <h3>百度地图</h3>
+        <h3>百度地图test222222</h3>
         <div ref="allmap" style="height:200px"></div>
         <div ref="allmap2" style="height:200px"></div>
         <input type="text" v-model='position'>
